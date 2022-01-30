@@ -5,9 +5,29 @@
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
 ```text
+🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24% 
+🌆 Daytime    123 commits    █████████░░░░░░░░░░░░░░░░   38.2% 
+🌃 Evening    115 commits    █████████░░░░░░░░░░░░░░░░   35.71% 
+🌙 Night      80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.84%
 
 ```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 30/01/2022 08:23:29 UTC
 <!--END_SECTION:waka-->
 
 

@@ -21,12 +21,12 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 min               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/01/2022 18:42:03 UTC
+ Last Updated on 31/01/2022 18:43:23 UTC
 <!--END_SECTION:waka-->
 
 

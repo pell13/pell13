@@ -1,4 +1,4 @@
-### Hi there, my name is Seolyeong Bae<img src="https://user-images.githubusercontent.com/80435616/151690320-5f13ba50-5d87-43d4-b254-939addcd0bdb.gif" width="25px">
+### Hi there, my name is Seolyeong Bae <img src="https://user-images.githubusercontent.com/80435616/151690320-5f13ba50-5d87-43d4-b254-939addcd0bdb.gif" width="25px" height="25px">
 
 ---
 
@@ -14,32 +14,6 @@
  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
-
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
-🌆 Daytime    130 commits    ███████░░░░░░░░░░░░░░░░░░   31.25% 
-🌃 Evening    166 commits    ██████████░░░░░░░░░░░░░░░   39.9% 
-🌙 Night      107 commits    ██████░░░░░░░░░░░░░░░░░░░   25.72%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 29/04/2022 18:48:30 UTC
-<!--END_SECTION:waka-->
 
 
 📈 **My GitHub Stats:**

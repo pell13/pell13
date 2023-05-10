@@ -6,9 +6,9 @@ I'm interested in front-end development.
 
 **Experiences**
 
-- 몰입캠프 @KAIST (2021.12 - 2022.01)
-- SW 마에스트로 13기 (2022.04 - 2022.11)
 - Data AI팀 인턴 @NAVER Cloud (2022.12 - Current)
+- SW 마에스트로 13기 (2022.04 - 2022.11)
+- 몰입캠프 @KAIST (2021.12 - 2022.01)
 
 <p>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>

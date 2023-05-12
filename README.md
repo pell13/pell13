@@ -3,6 +3,7 @@
 ---
 
 I'm interested in front-end development. 
+
 contact: seolyeongbae(at)gm.gist.ac.kr
 
 **Experiences**

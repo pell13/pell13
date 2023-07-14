@@ -8,7 +8,7 @@ contact: seolyeongbae(at)gm.gist.ac.kr
 
 **Experiences**
 
-- Data AI팀 인턴 @NAVER Cloud (2022.12 - 2023.06)
+- Front-end Intern @NAVER Cloud (2022.12 - 2023.06)
 - SW 마에스트로 13기 (2022.04 - 2022.11)
 - 몰입캠프 @KAIST (2021.12 - 2022.01)
 
